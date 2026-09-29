@@ -2,7 +2,6 @@
 
 I'm a Civil Engineer (EIT) specializing in transportation and traffic engineering, currently pursuing a PhD in Transportation Engineering at the University of South Florida. My research sits at the intersection of computer vision and mobility: detecting traffic events from roadside and drone video, predicting vehicle trajectories, and planning infrastructure for Advanced Air Mobility (AAM).
 
-By day I work on traffic studies, signal analysis, and site development at Stantec in Tampa, FL. By night I train detection models, build small offline tools, and automate the repetitive parts of engineering work with Python.
 
 ## What I'm working on
 
@@ -26,14 +25,14 @@ By day I work on traffic studies, signal analysis, and site development at Stant
 
 ## Highlights
 
-- 🏅 **AI City Challenge 2026, Track 6** — co-author of the DRAFE entry, ranked 6th of 25 teams
+- 🏅 **AI City Challenge 2026, Track 6** — co-author of the DRAFE  ranked 6th of 25 teams
 - 🎓 MS, Civil Engineering (Transportation) — University of South Florida
 - 🎓 BS, Civil Engineering, First Class Honors — KNUST, Ghana
 - 🚁 FAA Part 107 Remote Pilot Certificate
 
 ## Connect
 
-- 💼 LinkedIn: [linkedin.com/in/marvin-osei-k...](https://www.linkedin.com/in/marvin-osei-k) <!-- paste your full LinkedIn URL here -->
+- 💼 LinkedIn: [linkedin.com/in/marvin-osei-kuffour-e-i-91b343220/](https://www.linkedin.com/in/marvin-osei-kuffour-e-i-91b343220/) <!
 - 📧 okmarvin1@gmail.com
 
 <!--
